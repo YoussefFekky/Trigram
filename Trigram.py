@@ -1,4 +1,4 @@
-# Finalized on 21/3/2020 by Youssef Hassan
+# Last modified on 21/3/2020 by Youssef Hassan
 
 def ReadFile(FileName):
     FileInstance = open(FileName, "r", encoding="utf-8")
